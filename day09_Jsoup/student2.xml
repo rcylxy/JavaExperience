@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<students>
+    <student number="s0001">
+        <name>lixiaoyang</name>
+        <age>20</age>
+        <sex>male</sex>
+    </student>
+
+    <student number="s0002">
+        <name>4</name>
+        <age>s4</age>
+        <sex>s</sex>
+    </student>
+
+</students>
