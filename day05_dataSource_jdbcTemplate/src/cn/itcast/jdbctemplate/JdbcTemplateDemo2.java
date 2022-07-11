@@ -4,8 +4,8 @@ import cn.itcast.domain.Emp;
 import cn.itcast.utils.JDBCUtils;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
-import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
+
 
 import java.sql.Date;
 import java.sql.ResultSet;

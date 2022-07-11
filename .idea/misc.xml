@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/brand-demo" />
     <file type="web" url="file://$PROJECT_DIR$/day12_Tomcat" />
+    <file type="web" url="file://$PROJECT_DIR$/day13_jsp" />
     <file type="web" url="file://$PROJECT_DIR$/testTomcat" />
     <file type="web" url="file://$PROJECT_DIR$/Tomcat_Two" />
     <file type="web" url="file://$PROJECT_DIR$/web-demo" />
@@ -14,11 +16,10 @@
       <list>
         <option value="$PROJECT_DIR$/maven_demo/pom.xml" />
         <option value="$PROJECT_DIR$/maven-project/pom.xml" />
-        <option value="$PROJECT_DIR$/day10_mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis_demo/pom.xml" />
-        <option value="$PROJECT_DIR$/day12_Tomcat/pom.xml" />
         <option value="$PROJECT_DIR$/testTomcat/pom.xml" />
         <option value="$PROJECT_DIR$/web-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
       </list>
     </option>
   </component>
