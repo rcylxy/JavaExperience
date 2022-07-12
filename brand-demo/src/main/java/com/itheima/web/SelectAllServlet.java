@@ -1,10 +1,11 @@
 package com.itheima.web;
 /**
  * @Classname ${NAME}
- * @Date 2022/7/11 17:11
+ * @Date 2022/7/12 19:47
  * @Created by 李晓阳
  */
 
+import com.alibaba.fastjson.JSON;
 import com.itheima.pojo.Brand;
 import com.itheima.service.BrandService;
 
@@ -17,13 +18,13 @@ import java.util.List;
 @WebServlet("/selectAllServlet")
 public class SelectAllServlet extends HttpServlet {
     private BrandService service = new BrandService();
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("selectAllServlet");
         List<Brand> brands = service.selectAll();
-        request.setAttribute("brands", brands);
-        request.getRequestDispatcher("/brand.jsp").forward(request, response);
-
+        String s = JSON.toJSONString(brands);
+        response.setContentType("text/json;charset=UTF-8");
+        response.getWriter().write(s);
     }
 
     @Override

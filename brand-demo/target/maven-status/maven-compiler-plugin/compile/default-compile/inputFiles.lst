@@ -1,8 +1,6 @@
 D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\util\SqlSessionFactoryUtils.java
 D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\web\SelectAllServlet.java
 D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\web\AddServlet.java
-D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\web\UpdateServlet.java
 D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\service\BrandService.java
 D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\mapper\BrandMapper.java
 D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\pojo\Brand.java
-D:\homework\projectsofidea\itcast\brand-demo\src\main\java\com\itheima\web\SelectByIdServlet.java

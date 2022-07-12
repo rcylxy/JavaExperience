@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tomcat_Two/Tomcat_Two.iml" filepath="$PROJECT_DIR$/Tomcat_Two/Tomcat_Two.iml" />
-      <module fileurl="file://$PROJECT_DIR$/brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brand-case/brand-case.iml" filepath="$PROJECT_DIR$/brand-case/brand-case.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04_jdbc/day04_jdbc.iml" filepath="$PROJECT_DIR$/day04_jdbc/day04_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05_dataSource_jdbcTemplate/day05_dataSource_jdbcTemplate.iml" filepath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/day05_dataSource_jdbcTemplate.iml" />

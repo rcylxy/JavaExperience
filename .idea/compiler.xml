@@ -7,19 +7,25 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web-demo" />
-        <module name="brand-demo" />
+        <module name="brand-case" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="brand-case" target="8" />
       <module name="brand-demo" target="8" />
+      <module name="brand-demo (1)" target="8" />
+      <module name="cookie-demo" target="8" />
       <module name="day10_mybatis" target="8" />
       <module name="day12_Tomcat" target="8" />
       <module name="day13_jsp" target="1.5" />
+      <module name="filter-demo" target="8" />
       <module name="maven-project" target="8" />
       <module name="maven_demo" target="8" />
       <module name="mybatis_demo" target="8" />
       <module name="testTomcat" target="8" />
       <module name="Tomcat_Two" target="8" />
+      <module name="vue-demo" target="8" />
+      <module name="vue-demo、" target="8" />
       <module name="web-demo" target="8" />
     </bytecodeTargetLevel>
   </component>
